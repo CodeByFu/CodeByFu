@@ -6,6 +6,9 @@
 
 ![GitHub followers](http://junkui.top/img.svg)  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
+
+![GitHub followers](https://img.shields.io/github/followers/fu1996?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=fu1996.fu1996) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 <!---
 CodeByFu/CodeByFu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
